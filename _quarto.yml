@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
 
-format:
+format: 
   html:
     theme: sketchy
     css: styles.css
