@@ -1,5 +1,5 @@
 ---
-title: "Análise de dados do campeonato brasileiro "
+title: "Análise de Dados do Campeonato Brasileiro "
 ---
 
 
